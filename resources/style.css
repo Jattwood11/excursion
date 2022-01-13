@@ -13,7 +13,7 @@ h1 {
   font-size: 50px;
 }
 
-header p {
+p {
   font-size: 16px;
   color: Aquamarine;
   text-decoration: underline;
@@ -23,4 +23,18 @@ h2 {
   color: white;
   font-weight: 300;
   font-size: 42px;
+}
+
+h4 {
+  font-size: 21px;
+  color: gray;
+  font-weight: normal;
+}
+
+.phone-icon{
+  margin-top: 30px;
+}
+
+footer{
+  text-align: right;
 }
